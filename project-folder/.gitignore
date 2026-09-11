@@ -1,0 +1,11 @@
+.Rhistory
+.RData
+.Rproj.user/
+# OS files
+.DS_Store
+Thumbs.db
+
+# Do NOT ignore the generated DB or the data CSVs unless you tell me to
+# db/fraud_detection.db
+# data/elliptic_train_balanced.csv
+# data/elliptic_test.csv
