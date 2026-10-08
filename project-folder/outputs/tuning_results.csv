@@ -1,0 +1,5 @@
+"model_name","original_f1_score","tuned_f1_score","precision","recall","roc_auc","pr_auc","best_hyperparameters"
+"XGBoost",0.8146,NA,NA,NA,NA,NA,"Tuning failed: Stopping"
+"LightGBM",0.8136,0.826903023983316,0.949700598802395,0.732225300092336,0.957148038878197,0.82637435280318,"   num_leaves learning_rate max_depth 24         63          0.05        -1"
+"Extra Trees",0.8185,NA,NA,NA,NA,NA,"Tuning failed: Stopping"
+"Random Forest",0.8184,0.808907301916106,0.920990566037736,0.721144967682364,0.936636326137965,0.797552108185602,"  mtry 5   25"
