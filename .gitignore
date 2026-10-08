@@ -1,0 +1,5 @@
+
+data/*.csv
+db/*.db
+project-folder/data/*.csv
+project-folder/db/*.db
