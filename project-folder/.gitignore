@@ -9,3 +9,6 @@ Thumbs.db
 # db/fraud_detection.db
 # data/elliptic_train_balanced.csv
 # data/elliptic_test.csv
+
+data/*.csv
+db/*.db
